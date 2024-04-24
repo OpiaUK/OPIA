@@ -13,7 +13,7 @@ export default function App() {
 
       </p>
       <p>
-        vote on our community roadmap on Telegram
+        vote on our community roadmap on Telegram.
       </p>
     </div>
   );
