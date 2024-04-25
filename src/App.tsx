@@ -9,7 +9,7 @@ export default function App() {
         view the whitepaper: https://docs.google.com/document/d/1IcBpwH_XpYzAxiEEiHttPfQPYIK7EBDOXbli6zIrj8A/edit?usp=sharing
       </p>
       <p>
-        buy tokens via telegram @thisisOPIA
+        buy tokens via telegram. @thisisOPIA
 
       </p>
       <p>
